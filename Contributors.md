@@ -14,6 +14,7 @@
 - [Eric Imho Jang 👽🇰🇷](https://github.com/imhojang)
 - [Ougni Chakraborty](https://github.com/ougni)
 - [Thomas Harbin](https://github.com/thomasharbin)
+- [DIPS](https://github.com/dipstange)
 - [Abhinav Dubey](https://github.com/abhinavdubeyad9)
 - [Nico Beukes](https://github.com/nico-beukes)
 - [Ajay Chamba](https://github.com/ajaychamba)
